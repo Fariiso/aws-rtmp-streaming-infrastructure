@@ -17,3 +17,5 @@ A high-performance, real-time media ingestion and streaming architecture deploye
 
 ## Core Configuration Files
 - `rtmp_nginx_backup.conf`: Holds the core Nginx process orchestration block and live ingest directives.
+
+## Project Update Phase
